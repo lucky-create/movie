@@ -4,7 +4,7 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:7
 #EXTINF:6.366667,
-https://cdn.jsdelivr.net/gh/lucky-create/image@main/movie/5250000.ts
+https://cdn.jsdelivr.net/gh/lucky-create/movie/movie/5250000.ts
 #EXTINF:1.800000,
-https://cdn.jsdelivr.net/gh/lucky-create/image@main/movie/5250001.ts
+https://cdn.jsdelivr.net/gh/lucky-create/movie/movie/5250001.ts
 #EXT-X-ENDLIST
